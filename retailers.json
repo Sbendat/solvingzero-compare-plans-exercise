@@ -1,0 +1,42 @@
+[
+  {
+    "name": "AGL",
+    "baseUri": "https://cdr.energymadeeasy.gov.au/agl"
+  },
+  {
+    "name": "EnergyAustralia",
+    "baseUri": "https://cdr.energymadeeasy.gov.au/energyaustralia"
+  },
+  {
+    "name": "Alinta Energy",
+    "baseUri": "https://cdr.energymadeeasy.gov.au/alinta"
+  },
+  {
+    "name": "GloBird Energy",
+    "baseUri": "https://cdr.energymadeeasy.gov.au/globird"
+  },
+  {
+    "name": "Powershop",
+    "baseUri": "https://cdr.energymadeeasy.gov.au/powershop"
+  },
+  {
+    "name": "Sumo Power",
+    "baseUri": "https://cdr.energymadeeasy.gov.au/sumo-power"
+  },
+  {
+    "name": "1st Energy",
+    "baseUri": "https://cdr.energymadeeasy.gov.au/1st-energy"
+  },
+  {
+    "name": "Flow Power",
+    "baseUri": "https://cdr.energymadeeasy.gov.au/flow-power"
+  },
+  {
+    "name": "Arcline by RACV",
+    "baseUri": "https://cdr.energymadeeasy.gov.au/arcline"
+  },
+  {
+    "name": "Kogan Energy",
+    "baseUri": "https://cdr.energymadeeasy.gov.au/kogan"
+  }
+]

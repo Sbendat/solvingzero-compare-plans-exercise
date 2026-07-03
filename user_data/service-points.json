@@ -1,0 +1,86 @@
+{
+  "service_points": [
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_sp_eb7063a3aea0907c930ece3f0c4e1ab9ef99d730def8585ea0f7ca618747a8f6",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "consumer_profile": {
+        "classification": "RESIDENTIAL",
+        "threshold": "LOW"
+      },
+      "distribution_loss_factor": {
+        "code": "ELVE",
+        "description": "CitiPower - LV Network 415-240 V",
+        "loss_value": "1.0416"
+      },
+      "jurisdiction_code": "VIC",
+      "last_update_date_time": "2025-08-09T02:47:06+10:00",
+      "location": {
+        "address_u_type": "paf",
+        "paf": {
+          "dpid": "93673077",
+          "locality_name": "BRUNSWICK",
+          "postcode": "3056",
+          "state": "VIC",
+          "street_name": "MAPLE",
+          "street_type": "ST",
+          "thoroughfare_number1": 47
+        }
+      },
+      "meters": [
+        {
+          "meter_id": "A4578279",
+          "registers": [
+            {
+              "consumption_type": "ACTUAL",
+              "controlled_load": false,
+              "multiplier": 1,
+              "network_tariff_code": "GENR13",
+              "register_consumption_type": "ACTIVE_IMPORT",
+              "register_id": "B1",
+              "register_suffix": "B1",
+              "time_of_day": "INTERVAL",
+              "unit_of_measure": "KWH"
+            },
+            {
+              "consumption_type": "ACTUAL",
+              "controlled_load": false,
+              "multiplier": 1,
+              "network_tariff_code": "CRTOU",
+              "register_consumption_type": "ACTIVE",
+              "register_id": "E1",
+              "register_suffix": "E1",
+              "time_of_day": "INTERVAL",
+              "unit_of_measure": "KWH"
+            }
+          ],
+          "specifications": {
+            "installation_type": "MRIM",
+            "manufacturer": "LANDIS AND GYR",
+            "model": "E350 U1200",
+            "next_scheduled_read_date": "2026-09-01",
+            "read_type": "RWDC",
+            "status": "CURRENT"
+          }
+        }
+      ],
+      "national_metering_id": "6102336278",
+      "related_participants": [
+        {
+          "party": "Origin Energy Electricity Limited",
+          "role": "FRMP"
+        },
+        {
+          "party": "CitiPower Pty",
+          "role": "LNSP"
+        }
+      ],
+      "service_point_classification": "SMALL",
+      "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+      "service_point_status": "ACTIVE",
+      "valid_from_date": "2025-08-08",
+      "last_consumer_change_date": "2025-08-07"
+    }
+  ],
+  "links": {}
+}

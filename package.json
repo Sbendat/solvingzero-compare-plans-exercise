@@ -1,0 +1,22 @@
+{
+  "name": "solvingzero-compare-plans-exercise",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SolvingZero take-home: fetch real CDR electricity plans and estimate + rank their annual cost for a real household usage profile.",
+  "type": "module",
+  "scripts": {
+    "verify": "tsx scripts/verify-setup.mts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.8"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "der_records": [
+    {
+      "fiskil_id": "energy_der_eb7063a3aea0907c930ece3f0c4e1ab9ef99d730def8585ea0f7ca618747a8f6",
+      "institution_id": "121",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "ac_connections": [
+        {
+          "commissioning_date": "2022-12-28",
+          "connection_identifier": 200000000000000,
+          "count": 1,
+          "der_devices": [
+            {
+              "count": 16,
+              "device_identifier": 200000000000000,
+              "manufacturer": "RISEN ENERGY CO LTD",
+              "model_number": "RSM40-8-400M",
+              "nominal_rated_capacity": 0.4,
+              "nominal_storage_capacity": 0,
+              "status": "ACTIVE",
+              "subtype": "Monocrystalline",
+              "type": "SOLAR_PV"
+            }
+          ],
+          "equipment_type": "INVERTER",
+          "inverter_device_capacity": 5,
+          "inverter_model_number": "SOLIS-1P5K-4G (AS4777-2 2020)",
+          "inverter_series": "4G",
+          "manufacturer_name": "GINLONG TECHNOLOGIES CO LTD",
+          "status": "ACTIVE"
+        }
+      ],
+      "approved_capacity": 5,
+      "available_phases_count": 1,
+      "has_central_protection_control": true,
+      "installed_phases_count": 1,
+      "islandable_installation": true,
+      "protection_mode": {
+        "export_limit_kva": 5
+      },
+      "service_point_id": "dHbeTVnK1_O7qawpefl5pQ=="
+    }
+  ],
+  "links": {}
+}

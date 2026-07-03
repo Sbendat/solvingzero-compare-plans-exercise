@@ -1,0 +1,1171 @@
+{
+  "billing": [
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_d2092757913bbba0ad777ce9b8a98df8f9a799183f41faeff0f5940b77c1fdc6",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-06-08T00:00:00+10:00",
+      "gst": "3.15",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "34.61",
+        "description": "DAILY_SUPPLY",
+        "end_date": "2026-06-06T00:00:00+10:00",
+        "invoice_number": "132168769",
+        "is_estimate": false,
+        "measure_unit": "DAYS",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-05-07T00:00:00+10:00",
+        "time_of_use_type": "AGGREGATE",
+        "usage": 31
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_ab4145f51cc6fad3b5c567890e67e2242acf0c9f2e411b1dcd94692d18e0b2c8",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-06-08T00:00:00+10:00",
+      "gst": "0.00",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "-0.85",
+        "description": "FEED_IN_CREDIT",
+        "end_date": "2026-06-06T00:00:00+10:00",
+        "invoice_number": "132168769",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-05-07T00:00:00+10:00",
+        "time_of_use_type": "SOLAR",
+        "usage": 84.884
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_761e1706a8fe21d510f22369461dfe3bf60e075e93db0272fcd693fd6f860783",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-06-08T00:00:00+10:00",
+      "gst": "0.12",
+      "other_charges": {
+        "amount": "1.27",
+        "description": "CARD_PAYMENT_FEE",
+        "end_date": "9990-12-31",
+        "invoice_number": "132168769",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "1900-01-01",
+        "type": "OTHER"
+      },
+      "transaction_u_type": "otherCharges"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_4455dd533022894a9649eeba1cf829387775f6ee392bb683957e5e762bb7d794",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-06-08T00:00:00+10:00",
+      "gst": "20.65",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "227.20",
+        "description": "OFF_PEAK",
+        "end_date": "2026-06-06T00:00:00+10:00",
+        "invoice_number": "132168769",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-05-07T00:00:00+10:00",
+        "time_of_use_type": "OFF_PEAK",
+        "usage": 1144.281
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_05d7e2c40735be8a3672f8c55f4f0db7e66489250497e23042681a82e4fc5995",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-06-08T00:00:00+10:00",
+      "gst": "13.67",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "150.33",
+        "description": "PEAK",
+        "end_date": "2026-06-06T00:00:00+10:00",
+        "invoice_number": "132168769",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-05-07T00:00:00+10:00",
+        "time_of_use_type": "PEAK",
+        "usage": 459.833
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_e04ea6d9c7562e1f7ad2ca9d3d1bc0d28bdb99104bbcd8d20a316b4250f6da00",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-05-28T00:00:00+10:00",
+      "once_off": {
+        "amount": "-1.27",
+        "description": "PAYMENT_FEE",
+        "invoice_number": "132168769",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ=="
+      },
+      "transaction_u_type": "onceOff"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_1a6cada6ff169a44f06cffb084bb58071985a7c3bd33c951b8454276011cd5ef",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-05-28T00:00:00+10:00",
+      "payment": {
+        "amount": "190.20",
+        "method": "CARD"
+      },
+      "transaction_u_type": "payment"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_e062045d27d996b37ca3b56787b263493deee8d0f57aa6d68bc83e2cc852c96e",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-05-08T00:00:00+10:00",
+      "gst": "7.96",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "87.52",
+        "description": "OFF_PEAK",
+        "end_date": "2026-05-06T00:00:00+10:00",
+        "invoice_number": "129914725",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-04-07T00:00:00+10:00",
+        "time_of_use_type": "OFF_PEAK",
+        "usage": 440.775
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_dbcf9c14ee2a3a337cbf82b9547c2aed523cef280eb8a77888b3c1240c26dc66",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-05-08T00:00:00+10:00",
+      "gst": "3.05",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "33.50",
+        "description": "DAILY_SUPPLY",
+        "end_date": "2026-05-06T00:00:00+10:00",
+        "invoice_number": "129914725",
+        "is_estimate": false,
+        "measure_unit": "DAYS",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-04-07T00:00:00+10:00",
+        "time_of_use_type": "AGGREGATE",
+        "usage": 30
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_d17903c672eb1389c62ddd3214b1645f3d262686804c11a7d7cf0494163fa02c",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-05-08T00:00:00+10:00",
+      "gst": "6.48",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "71.24",
+        "description": "PEAK",
+        "end_date": "2026-05-06T00:00:00+10:00",
+        "invoice_number": "129914725",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-04-07T00:00:00+10:00",
+        "time_of_use_type": "PEAK",
+        "usage": 217.911
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_32edeb52eda2a4e53a7c906c311f54004811b4e7561a191d69bca3584e1ea70b",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-05-08T00:00:00+10:00",
+      "gst": "0.00",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "-2.06",
+        "description": "FEED_IN_CREDIT",
+        "end_date": "2026-05-06T00:00:00+10:00",
+        "invoice_number": "129914725",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-04-07T00:00:00+10:00",
+        "time_of_use_type": "SOLAR",
+        "usage": 205.592
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_28dc9b62442cb8c42beb2db936611f8a2633b02c27ffeeb54dc64f66316caf0f",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-05-08T00:00:00+10:00",
+      "gst": "0.02",
+      "other_charges": {
+        "amount": "0.27",
+        "description": "CARD_PAYMENT_FEE",
+        "end_date": "9990-12-31",
+        "invoice_number": "129914725",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "1900-01-01",
+        "type": "OTHER"
+      },
+      "transaction_u_type": "otherCharges"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_dfba6e39c0101c8b7b1f2b0d9b1f69ab8855f6fb4154e73af646aa57804353ef",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-04-10T00:00:00+10:00",
+      "payment": {
+        "amount": "40.75",
+        "method": "CARD"
+      },
+      "transaction_u_type": "payment"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_3993800310d29f818cabefc0767628d541757200e38f45fe628c0411f74ad4ac",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-04-10T00:00:00+10:00",
+      "once_off": {
+        "amount": "-0.27",
+        "description": "PAYMENT_FEE",
+        "invoice_number": "129914725",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ=="
+      },
+      "transaction_u_type": "onceOff"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_e731ce28fe9fd4fd94457c93a9703eed5507034aeb443ee2eac52b2c8e837354",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-04-08T00:00:00+10:00",
+      "gst": "0.03",
+      "other_charges": {
+        "amount": "0.34",
+        "description": "CARD_PAYMENT_FEE",
+        "end_date": "9990-12-31",
+        "invoice_number": "128034209",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "1900-01-01",
+        "type": "OTHER"
+      },
+      "transaction_u_type": "otherCharges"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_a8f1d85e15c219bea32a6c3cc62b6cc6716e4e57755d2f28dada27d40705b4d1",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-04-08T00:00:00+10:00",
+      "gst": "0.45",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "4.94",
+        "description": "OFF_PEAK",
+        "end_date": "2026-04-06T00:00:00+10:00",
+        "invoice_number": "128034209",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-03-07T00:00:00+11:00",
+        "time_of_use_type": "OFF_PEAK",
+        "usage": 24.89
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_a4cd6260dd7261a9d4a2d512eff2eeab43c6c30c83ef03929c6994fcb7e15f23",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-04-08T00:00:00+10:00",
+      "gst": "0.58",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "6.38",
+        "description": "PEAK",
+        "end_date": "2026-04-06T00:00:00+10:00",
+        "invoice_number": "128034209",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-03-07T00:00:00+11:00",
+        "time_of_use_type": "PEAK",
+        "usage": 19.527
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_8a9f23beab6bb4e006a93a102997e490cd1993dc6d966c77cc4b8736185e4c60",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-04-08T00:00:00+10:00",
+      "gst": "0.00",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "-5.18",
+        "description": "FEED_IN_CREDIT",
+        "end_date": "2026-04-06T00:00:00+10:00",
+        "invoice_number": "128034209",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-03-07T00:00:00+11:00",
+        "time_of_use_type": "SOLAR",
+        "usage": 517.561
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_44396975d724b03738f67fd304cb7d7996ec30bccbcd84f83571eba9af6e55fd",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-04-08T00:00:00+10:00",
+      "gst": "3.15",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "34.61",
+        "description": "DAILY_SUPPLY",
+        "end_date": "2026-04-06T00:00:00+10:00",
+        "invoice_number": "128034209",
+        "is_estimate": false,
+        "measure_unit": "DAYS",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-03-07T00:00:00+11:00",
+        "time_of_use_type": "AGGREGATE",
+        "usage": 31
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_4e56e1a6b88a8fc525443abcd919652017a99b1595d53f36959b02484b274e58",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-04-02T00:00:00+11:00",
+      "payment": {
+        "amount": "50.86",
+        "method": "CARD"
+      },
+      "transaction_u_type": "payment"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_269cf4059b8297de8703a87d35552c337a372481dde47d624509431b483105e7",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-04-02T00:00:00+11:00",
+      "once_off": {
+        "amount": "-0.34",
+        "description": "PAYMENT_FEE",
+        "invoice_number": "128034209",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ=="
+      },
+      "transaction_u_type": "onceOff"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_f4980011a6f50f2de75211c02bb9ac431148939f6990d52e38944312673afd47",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-03-10T00:00:00+11:00",
+      "gst": "2.84",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "31.27",
+        "description": "DAILY_SUPPLY",
+        "end_date": "2026-03-06T00:00:00+11:00",
+        "invoice_number": "125833338",
+        "is_estimate": false,
+        "measure_unit": "DAYS",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-02-07T00:00:00+11:00",
+        "time_of_use_type": "AGGREGATE",
+        "usage": 28
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_3d79e4ebf2642c2c24c474028da50ef76ecb436cf787e0fab4f87635f89e5759",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-03-10T00:00:00+11:00",
+      "gst": "0.00",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "-4.98",
+        "description": "FEED_IN_CREDIT",
+        "end_date": "2026-03-06T00:00:00+11:00",
+        "invoice_number": "125833338",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-02-07T00:00:00+11:00",
+        "time_of_use_type": "SOLAR",
+        "usage": 498.348
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_303df902d62d47e33f593ef93f77604844bc5b2dd200c087ee4445e7cb2feb23",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-03-10T00:00:00+11:00",
+      "gst": "0.98",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "10.77",
+        "description": "PEAK",
+        "end_date": "2026-03-06T00:00:00+11:00",
+        "invoice_number": "125833338",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-02-07T00:00:00+11:00",
+        "time_of_use_type": "PEAK",
+        "usage": 32.94
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_2ee967818f01e81d986f7428ea65ed1fa18ee03ab5b504ba31cc5e54b115119e",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-03-10T00:00:00+11:00",
+      "gst": "1.25",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "13.80",
+        "description": "OFF_PEAK",
+        "end_date": "2026-03-06T00:00:00+11:00",
+        "invoice_number": "125833338",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-02-07T00:00:00+11:00",
+        "time_of_use_type": "OFF_PEAK",
+        "usage": 69.521
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_0d8518619c37f4ed759bc0864853ee893825d21928269f5c49a1323bb92ef080",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-03-10T00:00:00+11:00",
+      "gst": "0.04",
+      "other_charges": {
+        "amount": "0.47",
+        "description": "CARD_PAYMENT_FEE",
+        "end_date": "9990-12-31",
+        "invoice_number": "125833338",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "1900-01-01",
+        "type": "OTHER"
+      },
+      "transaction_u_type": "otherCharges"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_ce243c9e276e9154a56f286c8e45f7517c595164bd3ffd63e048bedb8160c621",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-03-04T00:00:00+11:00",
+      "once_off": {
+        "amount": "-0.47",
+        "description": "PAYMENT_FEE",
+        "invoice_number": "125833338",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ=="
+      },
+      "transaction_u_type": "onceOff"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_62166dd332205c6610ea6f4785315c9259a7d355bc875162e3d4cdfb9fe26a50",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-03-04T00:00:00+11:00",
+      "payment": {
+        "amount": "70.84",
+        "method": "CARD"
+      },
+      "transaction_u_type": "payment"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_d5c1ba41e8e1941d1d6e5320cf8f6431612d2d0f76a14d1fddcb307c52f0fc8d",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-02-09T00:00:00+11:00",
+      "gst": "3.15",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "34.61",
+        "description": "DAILY_SUPPLY",
+        "end_date": "2026-02-06T00:00:00+11:00",
+        "invoice_number": "123742214",
+        "is_estimate": false,
+        "measure_unit": "DAYS",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-01-07T00:00:00+11:00",
+        "time_of_use_type": "AGGREGATE",
+        "usage": 31
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_d0aed0682d315fef75939d8b0655523a389c0748040fbbc6412115b160953f59",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-02-09T00:00:00+11:00",
+      "gst": "0.03",
+      "other_charges": {
+        "amount": "0.28",
+        "description": "CARD_PAYMENT_FEE",
+        "end_date": "9990-12-31",
+        "invoice_number": "123742214",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "1900-01-01",
+        "type": "OTHER"
+      },
+      "transaction_u_type": "otherCharges"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_5711849659578a4246a716aa341f4db77e20e0d8162a95f76c534aab0eda0dc6",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-02-09T00:00:00+11:00",
+      "gst": "2.19",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "24.05",
+        "description": "OFF_PEAK",
+        "end_date": "2026-02-06T00:00:00+11:00",
+        "invoice_number": "123742214",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-01-07T00:00:00+11:00",
+        "time_of_use_type": "OFF_PEAK",
+        "usage": 121.12
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_35c237d48d33649f1982f8e94a379388049de3c63d83308b3cdb8001f396fb95",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-02-09T00:00:00+11:00",
+      "gst": "0.00",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "-6.98",
+        "description": "FEED_IN_CREDIT",
+        "end_date": "2026-02-06T00:00:00+11:00",
+        "invoice_number": "123742214",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-01-07T00:00:00+11:00",
+        "time_of_use_type": "SOLAR",
+        "usage": 697.871
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_290fafa6bd5eb5ca04dcde39bd357216329b930064cca4d07cea12b620b38501",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-02-09T00:00:00+11:00",
+      "gst": "1.74",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "19.16",
+        "description": "PEAK",
+        "end_date": "2026-02-06T00:00:00+11:00",
+        "invoice_number": "123742214",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2026-01-07T00:00:00+11:00",
+        "time_of_use_type": "PEAK",
+        "usage": 58.606
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_ce3aaa188df18db5f53e7b1ffdd4c7bf03f63e1f8dee6b12525badeb099bda56",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-02-01T00:00:00+11:00",
+      "payment": {
+        "amount": "42.28",
+        "method": "CARD"
+      },
+      "transaction_u_type": "payment"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_26691be95daf29438656062647d5147c1b9b75f974e5095d463db305fd614919",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-02-01T00:00:00+11:00",
+      "once_off": {
+        "amount": "-0.28",
+        "description": "PAYMENT_FEE",
+        "invoice_number": "123742214",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ=="
+      },
+      "transaction_u_type": "onceOff"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_6651fa99d6693bcaf163b46056338d88db211e773aff41819eba50400ece9da0",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-01-08T00:00:00+11:00",
+      "gst": "0.00",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "-7.69",
+        "description": "FEED_IN_CREDIT",
+        "end_date": "2026-01-06T00:00:00+11:00",
+        "invoice_number": "121836852",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-12-07T00:00:00+11:00",
+        "time_of_use_type": "SOLAR",
+        "usage": 769.037
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_387507efb40710e84ab8d19f191b385e0c71792a88c3d482503fd537ad6a66b8",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-01-08T00:00:00+11:00",
+      "gst": "0.78",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "8.57",
+        "description": "OFF_PEAK",
+        "end_date": "2026-01-06T00:00:00+11:00",
+        "invoice_number": "121836852",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-12-07T00:00:00+11:00",
+        "time_of_use_type": "OFF_PEAK",
+        "usage": 43.182
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_236edac6a4641930a05f349ac76c3b18d14be1cb7b6efca8b3cea48b8c3f8601",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-01-08T00:00:00+11:00",
+      "gst": "0.62",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "6.79",
+        "description": "PEAK",
+        "end_date": "2026-01-06T00:00:00+11:00",
+        "invoice_number": "121836852",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-12-07T00:00:00+11:00",
+        "time_of_use_type": "PEAK",
+        "usage": 20.774
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_1099b507ffda6266bb7c4b29a1b19395d94eb1f61b224c2799e08ebd35c398dd",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-01-08T00:00:00+11:00",
+      "gst": "3.15",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "34.61",
+        "description": "DAILY_SUPPLY",
+        "end_date": "2026-01-06T00:00:00+11:00",
+        "invoice_number": "121836852",
+        "is_estimate": false,
+        "measure_unit": "DAYS",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-12-07T00:00:00+11:00",
+        "time_of_use_type": "AGGREGATE",
+        "usage": 31
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_09c8f67bee26769b96eb2c45515922c26fb84c8bc0909a053ea5a65eeb54aa34",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2026-01-08T00:00:00+11:00",
+      "gst": "0.03",
+      "other_charges": {
+        "amount": "0.37",
+        "description": "CARD_PAYMENT_FEE",
+        "end_date": "9990-12-31",
+        "invoice_number": "121836852",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "1900-01-01",
+        "type": "OTHER"
+      },
+      "transaction_u_type": "otherCharges"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_f069846eae5e6fe4eca059d7ebd43f01726572b076e9092bf298ae428f88b8b6",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-12-10T00:00:00+11:00",
+      "once_off": {
+        "amount": "-0.37",
+        "description": "PAYMENT_FEE",
+        "invoice_number": "121836852",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ=="
+      },
+      "transaction_u_type": "onceOff"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_70a01e750fac5479612c86364d9f6d61863c9bc5ea314d3012fe9ac76aadf450",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-12-10T00:00:00+11:00",
+      "payment": {
+        "amount": "55.03",
+        "method": "CARD"
+      },
+      "transaction_u_type": "payment"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_f1b2b82325ae1fec7aac45834a65f3247645ca84ee91eb2ca24305a40c4ebd9d",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-12-09T00:00:00+11:00",
+      "gst": "0.00",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "-5.89",
+        "description": "FEED_IN_CREDIT",
+        "end_date": "2025-12-06T00:00:00+11:00",
+        "invoice_number": "119739608",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-11-07T00:00:00+11:00",
+        "time_of_use_type": "SOLAR",
+        "usage": 589.364
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_aed700ce9f88e640101c5e03261a8876810172c11bcaae98c70a1dfc6300f9c2",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-12-09T00:00:00+11:00",
+      "gst": "0.94",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "10.37",
+        "description": "OFF_PEAK",
+        "end_date": "2025-12-06T00:00:00+11:00",
+        "invoice_number": "119739608",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-11-07T00:00:00+11:00",
+        "time_of_use_type": "OFF_PEAK",
+        "usage": 52.25
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_79a87dd37a4530f498817d66468fb9d792b813253d2e3c73ca77080338f3c3c5",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-12-09T00:00:00+11:00",
+      "gst": "0.61",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "6.71",
+        "description": "PEAK",
+        "end_date": "2025-12-06T00:00:00+11:00",
+        "invoice_number": "119739608",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-11-07T00:00:00+11:00",
+        "time_of_use_type": "PEAK",
+        "usage": 20.534
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_081252eaa49bce1969e590aad8eb9da835601d36436e1d9df2ae0adac7a3d998",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-12-09T00:00:00+11:00",
+      "gst": "3.05",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "33.50",
+        "description": "DAILY_SUPPLY",
+        "end_date": "2025-12-06T00:00:00+11:00",
+        "invoice_number": "119739608",
+        "is_estimate": false,
+        "measure_unit": "DAYS",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-11-07T00:00:00+11:00",
+        "time_of_use_type": "AGGREGATE",
+        "usage": 30
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_35ac23562a83b48d7a7e1347e68dbd86eef8e6dcee4d38f3ab793f6b4296f8d3",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-11-10T00:00:00+11:00",
+      "gst": "0.00",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "-5.95",
+        "description": "FEED_IN_CREDIT",
+        "end_date": "2025-11-06T00:00:00+11:00",
+        "invoice_number": "117602090",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-10-07T00:00:00+11:00",
+        "time_of_use_type": "SOLAR",
+        "usage": 594.59
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_1c10a518145ffc7040ca8c7595f0decce4d0ec5c80f65da5a28680c369e6f071",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-11-10T00:00:00+11:00",
+      "gst": "1.11",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "12.18",
+        "description": "OFF_PEAK",
+        "end_date": "2025-11-06T00:00:00+11:00",
+        "invoice_number": "117602090",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-10-07T00:00:00+11:00",
+        "time_of_use_type": "OFF_PEAK",
+        "usage": 61.355
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_102001cfb6a26b938a418c3e825209e38d2d602ed30e8c4a371e43699a46057a",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-11-10T00:00:00+11:00",
+      "gst": "3.15",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "34.61",
+        "description": "DAILY_SUPPLY",
+        "end_date": "2025-11-06T00:00:00+11:00",
+        "invoice_number": "117602090",
+        "is_estimate": false,
+        "measure_unit": "DAYS",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-10-07T00:00:00+11:00",
+        "time_of_use_type": "AGGREGATE",
+        "usage": 31
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_05a7bc86a4ff67ca0fabb1f282144b51e9865472b8790fb925470c610696c319",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-11-10T00:00:00+11:00",
+      "gst": "0.68",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "7.50",
+        "description": "PEAK",
+        "end_date": "2025-11-06T00:00:00+11:00",
+        "invoice_number": "117602090",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-10-07T00:00:00+11:00",
+        "time_of_use_type": "PEAK",
+        "usage": 22.944
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_d74fd079ab67a3451dc2564e1acbdd459fe808884c6aa45f55a8ce5c1a084c5d",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-10-09T00:00:00+11:00",
+      "gst": "3.05",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "33.50",
+        "description": "DAILY_SUPPLY",
+        "end_date": "2025-10-06T00:00:00+11:00",
+        "invoice_number": "115483080",
+        "is_estimate": false,
+        "measure_unit": "DAYS",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-09-07T00:00:00+10:00",
+        "time_of_use_type": "AGGREGATE",
+        "usage": 30
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_bb111dbeefe30f3e6f2c3467eeac1bd0c7fdf935ed57171859fd873e5e3b12f2",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-10-09T00:00:00+11:00",
+      "gst": "0.00",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "-4.66",
+        "description": "FEED_IN_CREDIT",
+        "end_date": "2025-10-06T00:00:00+11:00",
+        "invoice_number": "115483080",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-09-07T00:00:00+10:00",
+        "time_of_use_type": "SOLAR",
+        "usage": 466.451
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_b2136f14b29cfd76e46662cde5df5f59bfa1ba49c5e68bfe5539673cd193521a",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-10-09T00:00:00+11:00",
+      "gst": "0.37",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "4.12",
+        "description": "PEAK",
+        "end_date": "2025-10-06T00:00:00+11:00",
+        "invoice_number": "115483080",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-09-07T00:00:00+10:00",
+        "time_of_use_type": "PEAK",
+        "usage": 12.614
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_470f2e018ec52cf4e23adc3b174948b5129b6de050d18068c12d0295d7618323",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-10-09T00:00:00+11:00",
+      "gst": "0.08",
+      "other_charges": {
+        "amount": "0.86",
+        "description": "CARD_PAYMENT_FEE",
+        "end_date": "9990-12-31",
+        "invoice_number": "115483080",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "1900-01-01",
+        "type": "OTHER"
+      },
+      "transaction_u_type": "otherCharges"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_39476a88c79604d96e2f4f97ef46c01cdbd919813ff93f882a95de49a6c31794",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-10-09T00:00:00+11:00",
+      "gst": "0.37",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "4.04",
+        "description": "OFF_PEAK",
+        "end_date": "2025-10-06T00:00:00+11:00",
+        "invoice_number": "115483080",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-09-07T00:00:00+10:00",
+        "time_of_use_type": "OFF_PEAK",
+        "usage": 20.339
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_278e280d7cae26321a587439f7566b9a1a540b64cc5325359e1e477cfa6c6159",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-10-09T00:00:00+11:00",
+      "gst": "0.00",
+      "other_charges": {
+        "amount": "-75.00",
+        "description": "GOVERNMENT_ENERGY_RELIEF_REBATE_FY26",
+        "end_date": "9990-12-31",
+        "invoice_number": "115483080",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "1900-01-01",
+        "type": "OTHER"
+      },
+      "transaction_u_type": "otherCharges"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_f283468ece42c893b28af44d19962ea9110e954c44afc38dfcdea1fa0b56d475",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-09-29T00:00:00+10:00",
+      "payment": {
+        "amount": "128.69",
+        "method": "CARD"
+      },
+      "transaction_u_type": "payment"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_ddc671a165443e0a4f51f0ff9393f0a783985efeaf38c95d40be7ce79cc31185",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-09-29T00:00:00+10:00",
+      "once_off": {
+        "amount": "-0.86",
+        "description": "PAYMENT_FEE",
+        "invoice_number": "115483080",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ=="
+      },
+      "transaction_u_type": "onceOff"
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_d987e86568027c336acd640919bb89b51f52446533454dd4d29395c521c7ed5e",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-09-08T00:00:00+10:00",
+      "gst": "0.00",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "-3.04",
+        "description": "FEED_IN_CREDIT",
+        "end_date": "2025-09-06T00:00:00+10:00",
+        "invoice_number": "113361739",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-08-07T00:00:00+10:00",
+        "time_of_use_type": "SOLAR",
+        "usage": 304.301
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_a541816373ef91d271f87502f13f8ba5d8932dac449c89a06615be5cba291d59",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-09-08T00:00:00+10:00",
+      "gst": "4.39",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "48.24",
+        "description": "OFF_PEAK",
+        "end_date": "2025-09-06T00:00:00+10:00",
+        "invoice_number": "113361739",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-08-07T00:00:00+10:00",
+        "time_of_use_type": "OFF_PEAK",
+        "usage": 242.958
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_9e8fad90105263e9b5e2bfe1397df95c4fd2e7b32971bef65d50a32ccee4adb7",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-09-08T00:00:00+10:00",
+      "gst": "4.44",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "48.88",
+        "description": "PEAK",
+        "end_date": "2025-09-06T00:00:00+10:00",
+        "invoice_number": "113361739",
+        "is_estimate": false,
+        "measure_unit": "KWH",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-08-07T00:00:00+10:00",
+        "time_of_use_type": "PEAK",
+        "usage": 149.526
+      }
+    },
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_billing_3b348e7f4520bd0bece8e2aa7432a55034a827b1d0bd2d3b38c9de7bf571ee3e",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "execution_date_time": "2025-09-08T00:00:00+10:00",
+      "gst": "3.15",
+      "transaction_u_type": "usage",
+      "usage": {
+        "amount": "34.61",
+        "description": "DAILY_SUPPLY",
+        "end_date": "2025-09-06T00:00:00+10:00",
+        "invoice_number": "113361739",
+        "is_estimate": false,
+        "measure_unit": "DAYS",
+        "service_point_id": "dHbeTVnK1_O7qawpefl5pQ==",
+        "start_date": "2025-08-07T00:00:00+10:00",
+        "time_of_use_type": "AGGREGATE",
+        "usage": 31
+      }
+    }
+  ],
+  "links": {}
+}

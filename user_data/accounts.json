@@ -1,0 +1,224 @@
+{
+  "accounts": [
+    {
+      "institution_id": "121",
+      "fiskil_id": "energy_account_c876bc37fc2b80122f760e7a8238c10c9955965d05252958ccd5906fdf5f3c0e",
+      "arrangement_id": "de954a5e-8316-4417-acbb-31a5c206da05",
+      "account_id": "507b2be4-cb0e-4c24-8a8d-b93f8ee47235",
+      "account_number": "A-00000000",
+      "creation_date": "2025-08-06",
+      "display_name": "John Smith",
+      "open_status": "OPEN",
+      "plans": [
+        {
+          "plan_detail": {
+            "electricity_contract": {
+              "eligibility": [
+                {
+                  "description": "",
+                  "information": "Other",
+                  "type": "OTHER"
+                },
+                {
+                  "description": "",
+                  "information": "Other",
+                  "type": "OTHER"
+                }
+              ],
+              "fees": [
+                {
+                  "amount": "49.32",
+                  "description": "A $49.32 (GST Incl) fee may apply when your property is disconnected (including when you move). This fee is passed through from your distributor and may vary. Please visit your distributor s website to find out the current fee. Available through distributor Citipower.",
+                  "term": "FIXED",
+                  "type": "DISCONNECTION"
+                },
+                {
+                  "amount": "48.60",
+                  "description": "A $48.60 (GST Incl) fee may apply when your property is reconnected (including when you move). This fee is passed through from your distributor and may vary. Please visit your distributor s website to find out the current fee. Available through distributor Citipower.",
+                  "term": "FIXED",
+                  "type": "CONNECTION"
+                },
+                {
+                  "description": "A 0.27% fee (GST Incl) may apply to payments made by VISA debit card. Available through distributor Citipower.",
+                  "rate": "0.0027",
+                  "term": "PERCENT_OF_BILL",
+                  "type": "CC_PROCESSING"
+                },
+                {
+                  "amount": "2.70",
+                  "description": "If you pay at an Australia Post outlet, a payment processing fee of the higher of $2.70 or 0.49% (incl GST) may apply. Available through distributor Citipower.",
+                  "term": "FIXED",
+                  "type": "PAYMENT_PROCESSING"
+                },
+                {
+                  "amount": "2.15",
+                  "description": "$2.15 (incl GST) applies for each paper bill. Available through distributor Citipower.",
+                  "term": "FIXED",
+                  "type": "OTHER"
+                },
+                {
+                  "description": "A 0.65% fee (GST Incl) may apply to payments made by VISA credit card. Available through distributor Citipower.",
+                  "rate": "0.0065",
+                  "term": "PERCENT_OF_BILL",
+                  "type": "CC_PROCESSING"
+                },
+                {
+                  "description": "A 0.33% fee (GST Incl) may apply to payments made by Mastercard debit card. Available through distributor Citipower.",
+                  "rate": "0.0033",
+                  "term": "PERCENT_OF_BILL",
+                  "type": "CC_PROCESSING"
+                },
+                {
+                  "description": "A 0.67% fee (GST Incl) may apply to payments made by Mastercard credit card. Available through distributor Citipower.",
+                  "rate": "0.0067",
+                  "term": "PERCENT_OF_BILL",
+                  "type": "CC_PROCESSING"
+                },
+                {
+                  "description": "A 0.64% fee (GST Incl) may apply to payments made by American Express credit card. Available through distributor Citipower.",
+                  "rate": "0.0064",
+                  "term": "PERCENT_OF_BILL",
+                  "type": "CC_PROCESSING"
+                }
+              ],
+              "is_fixed": false,
+              "on_expiry_description": "We ll give you notice before your contract ends. At the end of the contract term, we will continue to sell you energy and the terms and conditions of the Standard Retail Contract will apply, unless you tell us otherwise.",
+              "payment_option": [
+                "BPAY",
+                "CREDIT_CARD",
+                "DIRECT_DEBIT",
+                "PAPER_BILL",
+                "OTHER"
+              ],
+              "pricing_model": "TIME_OF_USE",
+              "solar_feed_in_tariff": [
+                {
+                  "display_name": "Solar feed-in credit",
+                  "payer_type": "GOVERNMENT",
+                  "scheme": "OTHER",
+                  "single_tariff": {
+                    "rates": [
+                      {
+                        "measure_unit": "KWH",
+                        "unit_price": "-0.01"
+                      }
+                    ]
+                  },
+                  "tariff_u_type": "singleTariff"
+                },
+                {
+                  "display_name": "Solar Meter Charge",
+                  "payer_type": "GOVERNMENT",
+                  "scheme": "OTHER",
+                  "single_tariff": {
+                    "rates": [
+                      {
+                        "measure_unit": "DAYS",
+                        "unit_price": "0.00"
+                      }
+                    ]
+                  },
+                  "tariff_u_type": "singleTariff"
+                }
+              ],
+              "tariff_period": [
+                {
+                  "daily_supply_charge": "1.0151",
+                  "daily_supply_charges": "1.0151",
+                  "daily_supply_charge_type": "SINGLE",
+                  "display_name": "Origin Go Variable",
+                  "end_date": "06-30",
+                  "rate_block_u_type": "timeOfUseRates",
+                  "start_date": "07-01",
+                  "time_of_use_rates": [
+                    {
+                      "display_name": "Off-peak",
+                      "rates": [
+                        {
+                          "measure_unit": "KWH",
+                          "unit_price": "0.1805"
+                        }
+                      ],
+                      "time_of_use": [
+                        {
+                          "days": [
+                            "MON",
+                            "TUE",
+                            "WED",
+                            "THU",
+                            "FRI",
+                            "SAT",
+                            "SUN",
+                            "PUBLIC_HOLIDAYS"
+                          ],
+                          "end_time": "14:59:59.999999+10:00",
+                          "start_time": "00:00:00+10:00"
+                        },
+                        {
+                          "days": [
+                            "MON",
+                            "TUE",
+                            "WED",
+                            "THU",
+                            "FRI",
+                            "SAT",
+                            "SUN",
+                            "PUBLIC_HOLIDAYS"
+                          ],
+                          "end_time": "23:59:59.999999+10:00",
+                          "start_time": "21:00:00+10:00"
+                        }
+                      ],
+                      "type": "OFF_PEAK"
+                    },
+                    {
+                      "display_name": "Peak",
+                      "rates": [
+                        {
+                          "measure_unit": "KWH",
+                          "unit_price": "0.2972"
+                        }
+                      ],
+                      "time_of_use": [
+                        {
+                          "days": [
+                            "MON",
+                            "TUE",
+                            "WED",
+                            "THU",
+                            "FRI",
+                            "SAT",
+                            "SUN",
+                            "PUBLIC_HOLIDAYS"
+                          ],
+                          "end_time": "20:59:59.999999+10:00",
+                          "start_time": "15:00:00+10:00"
+                        }
+                      ],
+                      "type": "PEAK"
+                    }
+                  ],
+                  "time_zone": "AEST",
+                  "type": "OTHER"
+                }
+              ],
+              "time_zone": "AEST",
+              "variation": "We may vary the Charges   including their amount, nature and structure   by notice to you at any time. The notice will be at least 5 business days prior to the effective date of the variation."
+            },
+            "fuel_type": "ELECTRICITY",
+            "is_contingent_plan": false
+          },
+          "plan_overview": {
+            "display_name": "Origin Go Variable",
+            "end_date": "2026-08-07",
+            "start_date": "2025-08-07"
+          },
+          "service_point_ids": [
+            "dHbeTVnK1_O7qawpefl5pQ=="
+          ]
+        }
+      ]
+    }
+  ],
+  "links": {}
+}

@@ -1,0 +1,418 @@
+[
+    {
+        "id": "152",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/152-1st-energy-icon.png",
+        "name": "1st Energy",
+        "logo": "https://1stenergy.com.au/wp-content/uploads/2023/11/1stEnergy_colour_RGB.png",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "147",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/147-actewagl-icon.png",
+        "name": "ActewAGL",
+        "logo": "https://www.actewagl.com.au/-/media/project/actewagl/actewagldigital/logos/common/logo/brand-logo-actewagl-blue/actewagl_logo_green.png?h=172&w=1343&rev=b507a6379b2542b2afd10075d3318112&hash=640B0A9ED3B13973AEE5A7968C8AEB6A",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "122",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/122-agl-icon.png",
+        "name": "AGL",
+        "logo": "https://agl.com.au/content/dam/digital/agl/images/logos/agl/agl-vertical-gradient.svg",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "125",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/125-alinta-energy-icon.png",
+        "name": "Alinta Energy",
+        "logo": "https://www.alintaenergy.com.au/-/jssmedia/alinta-website/data/media/img/alinta_default_logo.png",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "100043",
+        "icon": "https://cdn.prod.website-files.com/65bcfbd87eded73b1edd9413/65bcfdc9d78f09c7ba620068_amber-logo.svg",
+        "name": "Amber",
+        "logo": "https://cdn.prod.website-files.com/65bcfbd87eded73b1edd9413/65bcfdc9d78f09c7ba620068_amber-logo.svg",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "100026",
+        "icon": "https://public.energylocals.com.au/public/cdr_arcline.png",
+        "name": "Arcline by RACV",
+        "logo": "https://public.energylocals.com.au/public/cdr_arcline.png",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "100044",
+        "icon": "https://www.auroraenergy.com.au/sites/default/files/2020-05/aurora-logo-transparent.png",
+        "name": "Aurora Energy",
+        "logo": "https://www.auroraenergy.com.au/sites/default/files/2020-05/aurora-logo-transparent.png",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "100000",
+        "icon": "https://www.bluenrg.com.au/wp-content/uploads/2024/02/Blue-NRGLogo-Inverted-RGB-1200px-W-72ppi.png",
+        "name": "Blue NRG",
+        "logo": "https://www.bluenrg.com.au/wp-content/uploads/2024/02/Blue-NRGLogo-Inverted-RGB-1200px-W-72ppi.png",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "100023",
+        "icon": "https://public.energylocals.com.au/public/cdr_copower.png",
+        "name": "Cooperative Power",
+        "logo": "https://public.energylocals.com.au/public/cdr_copower.png",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "135",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/135-covau-icon.png",
+        "name": "COVAU PTY LIMITED",
+        "logo": "https://covau.com.au/wp-content/uploads/2022/01/covau-logo-300.png",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "136",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/136-diamond-energy-icon.png",
+        "name": "Diamond Energy",
+        "logo": "https://diamondenergy.com.au/wp-content/uploads/2023/06/DE-logo-approved_your-pure-power-people.png",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "127",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/127-dodo-power-and-gas-icon.png",
+        "name": "Dodo Power & Gas",
+        "logo": "https://s0.2mdn.net/creatives/assets/4983616/Dodo_Logo_Aug23_V1.svg",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "123",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/123-energyaustralia-icon.png",
+        "name": "EnergyAustralia",
+        "logo": "https://www.energyaustralia.com.au/themes/custom/ea/assets/images/EA_logo.svg",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "100019",
+        "icon": "https://public.energylocals.com.au/public/cdr.png",
+        "name": "Energy Locals",
+        "logo": "https://public.energylocals.com.au/public/cdr.png",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "129",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/129-ergon-energy-retail.png",
+        "name": "Ergon Energy Retail",
+        "logo": "https://www.ergon.com.au/__data/assets/image/0013/210613/retail-logo.png",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "148",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/148-engie.png",
+        "name": "ENGIE",
+        "logo": "https://www.engie.com.au/sites/default/files/icons/engie_logo.png",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "162",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/162-globird-energy-icon.png",
+        "name": "GloBird Energy",
+        "logo": "https://www.globirdenergy.com.au/wp-content/uploads/2017/09/GloBird_web_logo.svg",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "150",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/150-kogan-energy-icon.png",
+        "name": "Kogan Energy",
+        "logo": "https://s45145.pcdn.co/wp-content/uploads/2023/06/kogan-energy.png",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "134",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/134-lumo-energy-icon.png",
+        "name": "Lumo Energy",
+        "logo": "https://www.lumoenergy.com.au/assets/images/logo--lumo.svg",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "133",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/133-momentum-energy.png",
+        "name": "Momentum Energy",
+        "logo": "https://www.momentumenergy.com.au/assets/images/logo.svg",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "121",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/121-origin-icon.png",
+        "name": "Origin Energy",
+        "logo": "https://res.cloudinary.com/originenergy/image/upload/v1667947270/CDR/origin-energy-logo.png",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "128",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/128-ovo-energy.png",
+        "name": "OVO Energy",
+        "logo": "https://email-assets.ovoenergy.com.au/ovo_energy_full_green_logo.png",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "145",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/145-nectr-icon.png",
+        "name": "Nectr",
+        "logo": "https://nectr.com.au/wp-content/uploads/2023/04/header-logo.svg",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "100005",
+        "icon": "https://www.pacificblue.com.au/sites/default/files/2023-04/Pacific_Blue_300px.png",
+        "name": "Pacific Blue Retail",
+        "logo": "https://www.pacificblue.com.au/sites/default/files/2023-04/Pacific_Blue_300px.png",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "151",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/151-powershop-icon.png",
+        "name": "Powershop",
+        "logo": "https://www.powershop.com.au/_next/image?url=%2Fpowershop-logo.png&w=256&q=75",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "100029",
+        "icon": "https://public.energylocals.com.au/public/cdr_raa.png",
+        "name": "RAA Energy",
+        "logo": "https://public.energylocals.com.au/public/cdr_raa.png",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "126",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/126-red-energy-icon.png",
+        "name": "Red Energy",
+        "logo": "https://www.redenergy.com.au/assets/img/logo-red-energy.png",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "146",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/146-sumo-power-icon.png",
+        "name": "Sumo Power",
+        "logo": "https://sumo-public-share.s3.ap-southeast-2.amazonaws.com/SumoIT/URI/Sumo_Logo.png",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "124",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/124-tango-energy-icon.png",
+        "name": "Tango Energy",
+        "logo": "https://www.tangoenergy.com/sites/default/files/2022-08/Default-Logo-Tango.png",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": {
+            "connections": {
+                "status": "HEALTHY"
+            }
+        }
+    },
+    {
+        "id": "99999",
+        "icon": "https://storage.googleapis.com/global_institutions_prod/icons/99999-fiskil-sandbox-energy-ahTeG",
+        "name": "Energy Sandbox Data Holder",
+        "logo": "https://storage.googleapis.com/global_institutions_prod/icons/99999-fiskil-sandbox-energy-ahTeG",
+        "industry": "energy",
+        "priority": 0,
+        "is_accessible": true,
+        "status": null
+    }
+]
