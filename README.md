@@ -6,7 +6,7 @@ This is a **2-hour** coding exercise, please don't spend more time on it. This i
 
 > Anything you build here is for evaluation only, it won't be used in production.
 
-SolvingZero helps Australian households understand their electricity and make smart choices. A core piece of this is fetching a household's real usage, working out their costs and opportunites.
+SolvingZero helps Australian households understand their electricity and make smart choices. A core part of that is fetching real data, working out the costs, and assessing the options.
 
 ## Quick start guide
 
