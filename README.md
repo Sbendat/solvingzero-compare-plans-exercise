@@ -29,7 +29,7 @@ You implement two stubs in `src/`: [`fetchPlans.ts`](src/fetchPlans.ts) and [`es
 
 ## The task
 
-This exercise asks that you pull plans from ten different electrcity providers (retailers) from a publically avaliable API and then use that data to calculate and identify a cheaper plan the user can move to.
+This exercise asks that you pull plans from ten different electrcity providers (retailers) from a publically avaliable API and then use that data to calculate and identify a cheaper plan the user can move to. If time permits you can wireframe a UI for the user as well.
 
 In this folder is a real household's electricity usage and relevant data, almost everything you need should already be provided here in this project. Feel free to reach out if anything is unclear or ambigious.
 
